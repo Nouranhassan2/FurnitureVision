@@ -1,0 +1,30 @@
+a{
+    text-decoration: none;
+}
+footer {
+    background-image: url('/assets/images/Footer pattern.webp');
+    color: #ffffff;
+  }
+  
+  footer a.text-light {
+    color: #a7a3a35b;
+  }
+  
+ 
+  
+  footer h5 {
+    color: #ffffff;
+    margin-bottom: 1rem;
+    font-size: 20px;
+  }
+  
+  footer p {
+    font-size: 0.9rem;
+  }
+  
+  @media (max-width: 768px) {
+    footer .col-md-4, footer .col-md-2, footer .col-md-3, footer .col-md-1 {
+      margin-bottom: 1rem;
+    }
+  }
+  
